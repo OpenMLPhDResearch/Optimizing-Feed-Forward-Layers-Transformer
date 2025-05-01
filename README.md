@@ -49,7 +49,7 @@ To get started, follow these steps:
 2. Install required dependencies:
    pip install -r requirements.txt
 
-📝 How to Contribute
+## 📝 How to Contribute
 
 We encourage contributions from researchers, PhD students, and developers interested in optimizing Transformer architectures. Here's how you can contribute:
 
@@ -64,7 +64,9 @@ We encourage contributions from researchers, PhD students, and developers intere
     Open an issue to discuss new ideas or report bugs.
 
 We welcome any new optimization strategies, performance improvements, or feedback on current implementations.
-🏆 Research Paper Reviews
+
+
+## 🏆 Research Paper Reviews
 
 To stay up-to-date with the latest developments in Transformer architectures, we also conduct reviews of cutting-edge research papers from major AI and ML conferences. This helps inform our research and keep it aligned with current trends in optimization techniques.
 
